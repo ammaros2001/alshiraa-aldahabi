@@ -4,7 +4,7 @@ const branchesData = {
         name: "سوق المشير بجانب جامع الناقة",
         phone: "0915031564",
         whatsapp: "0915031564",
-        mapUrl: "https://maps.app.goo.gl/epNJJA5tmaey8QmD9?g_st=afm",
+        mapUrl: "https://maps.app.goo.gl/PkfXzoJo6gNQMmPc8?g_st=afm",
         images: [
             "images/branch1/one.jpg",
             "images/branch1/two.jpg",
@@ -15,7 +15,7 @@ const branchesData = {
         name: "سوق المشير شارع شايب العين",
         phone: "0913112467",
         whatsapp: "0913112467",
-        mapUrl: "https://maps.app.goo.gl/PUMCdu4JG9ZPig4v6?g_st=afm",
+        mapUrl: "https://maps.app.goo.gl/FYKEr8XRAx7DxGpp7?g_st=afm",
         images: [
             "images/branch2/one.jpg",
             "images/branch2/two.jpg",
@@ -26,7 +26,7 @@ const branchesData = {
         name: "شارع المعري بجانب ملاهي طرابلس الدولية",
         phone: "0946494812",
         whatsapp: "0946494812",
-        mapUrl: "https://maps.app.goo.gl/cLRwW2VQyS168usk6?g_st=afm",
+        mapUrl: "https://maps.app.goo.gl/K4pvvYubM2JRtEMv9?g_st=afm",
         images: [
             "images/branch3/one.jpg",
             "images/branch3/two.jpg",
